@@ -8,7 +8,7 @@ def center_label(event=None):
 
 root = tk.Tk()
 root.geometry("300x70")
-root.title('Useless Censor Bar')
+root.title('Useless Censorbar')
 root.configure(bg='black')
 root.attributes("-topmost", True)
 
